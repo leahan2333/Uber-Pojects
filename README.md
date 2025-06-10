@@ -5,19 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Research Question](#research-question)
-- [Key Findings](#key-findings)
-- [Methodology](#methodology)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation & Usage](#installation--usage)
-- [Results](#results)
-- [Technical Details](#technical-details)
-- [Policy Implications](#policy-implications)
-- [Contributors](#contributors)
-- [References](#references)
 
 ## 🔍 Overview
 
